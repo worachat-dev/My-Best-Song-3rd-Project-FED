@@ -1,6 +1,6 @@
 ---
 
-# My Music Player 2024 : 1st Project
+# My Music Player 2024 : 3rd Project
 
 ![Music Player](./0082.png)
 
@@ -26,12 +26,12 @@ Welcome to My Music Player 2024, a sleek, responsive, and easy-to-use web-based 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/worachat-dev/My-Best-Song-1st-Project-FED.git
+    git clone https://github.com/worachat-dev/My-Best-Song-3rd-Project-FED.git
     ```
 
 2. Navigate to the project directory:
     ```bash
-    cd My-Best-Song-1st-Project-FED
+    cd My-Best-Song-3rd-Project-FED
     ```
 
 3. Open `index.html` in your favorite web browser.
